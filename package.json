@@ -1,0 +1,30 @@
+{
+  "name": "telegram_bot",
+  "version": "1.0.0",
+  "description": "a bot for jokes",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aditya-kakkar-coding/telegram_bot.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "jokes",
+    "api"
+  ],
+  "author": "aditya kakkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aditya-kakkar-coding/telegram_bot/issues"
+  },
+  "homepage": "https://github.com/aditya-kakkar-coding/telegram_bot#readme",
+  "dependencies": {
+    "nodemon": "^3.1.9",
+    "telegraf": "^4.16.3"
+  }
+}
