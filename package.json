@@ -24,7 +24,9 @@
   },
   "homepage": "https://github.com/aditya-kakkar-coding/telegram_bot#readme",
   "dependencies": {
+    "express": "^4.21.2",
     "nodemon": "^3.1.9",
+    "one-liner-joke": "^1.2.2",
     "telegraf": "^4.16.3"
   }
 }
